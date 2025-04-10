@@ -1,5 +1,8 @@
 # 🛒 E-Commerce Website
 
+![Author](https://img.shields.io/badge/Author-Pallerla%20Sohan-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This is a PHP-based e-commerce platform designed to provide core shopping functionality for **customers** and **management tools** for **admins**. It includes user registration, login, shopping cart, and product management features.
 
 ---
@@ -160,5 +163,5 @@ Feel free to open issues or submit pull requests if you'd like to contribute or 
 
 ---
 
-**Author:** *Pallerla Sohan *  
-**License:** This project is licensed under the MIT License
+**Author:** Pallerla Sohan  
+**License:** This project is licensed under the MIT License.
